@@ -46,12 +46,12 @@ const projects = [
 
 export default function Projects() {
   return (
-    <section id="work" className="border-t border-black/15 px-6 py-32 lg:px-8">
+    <section id="projects" className="border-t border-black/15 px-6 py-32 lg:px-8">
       <div className="mx-auto max-w-6xl">
         <div className="mb-20 flex items-end justify-between">
           <div>
             <p className="mb-4 text-sm uppercase tracking-[0.2em] text-black/40">
-              Selected Work
+              Selected Projects
             </p>
 
             <h2 className="text-4xl tracking-tight sm:text-5xl">
